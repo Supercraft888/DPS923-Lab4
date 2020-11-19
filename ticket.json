@@ -1,1 +1,17 @@
-{"type":"courtside","price":"$1811.99","quantity":"1"}
+{
+    "results": [{
+        "type" : "Courtside",
+        "price" : 27777,
+        "inventory" : 15
+    }, 
+    {
+        "type" : "Balcony Level",
+        "price" : 1170,
+        "inventory" : 12
+    },
+    {
+        "type" : "Lower Level",
+        "price" : 10434,
+        "inventory" : 20
+    }]
+}
